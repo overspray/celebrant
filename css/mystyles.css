@@ -93,12 +93,12 @@ main {
     color: #888;
 }
 
-#landing-image {
-    background: url("/img/ring.jpeg");
+#landing-imageA {
+    /*background: url("img/ring.jpeg");*/
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    height: 50vh;
+    height: 100vh;
     flex: 0 1 60vw;
     margin: 0;
 }
