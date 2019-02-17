@@ -98,7 +98,7 @@ main {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    height: 100vh;
+    height: 150vh;
     flex: 0 1 60vw;
     margin: 0;
 }
